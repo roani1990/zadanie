@@ -3,12 +3,12 @@
 
 
 ## Uruchomienie
-Zadanie moøna uruchomiÊ przez polecenia:
-javac -classpath .classpath -d bin src\*.java
-java -cp bin Main "Plik z danymi.txt"
+Zadanie mo≈ºna uruchomiƒá przez polecenia:
+* javac -classpath .classpath -d bin src\*.java
+* java -cp bin Main "Plik z danymi.txt"
 
-##Przyk≥adowy wynik
+##Przyk≈Çadowy wynik
 Dla dostarczonego pliku:
-Suma wszystkich transakcji uøytkownikÛw z pliku to 11248729.12PLN
-W tym suma transkacji Kowalskiego to 11248637.44PLN
+* Suma wszystkich transakcji u≈ºytkownik√≥w z pliku to 11248729.12PLN
+* W tym suma transkacji Kowalskiego to 11248637.44PLN
 
